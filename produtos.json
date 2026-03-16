@@ -1,0 +1,56 @@
+[
+  {
+    "codigo": "001",
+    "nome": "Notebook Dell Inspiron 15",
+    "categoria": "Eletrônicos",
+    "imagem": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=300&h=200&fit=crop",
+    "precoCompra": 3200.00,
+    "precoVenda": 4200.00,
+    "quantidade": 15
+  },
+  {
+    "codigo": "002",
+    "nome": "Mouse Logitech Wireless",
+    "categoria": "Periféricos",
+    "imagem": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=300&h=200&fit=crop",
+    "precoCompra": 45.90,
+    "precoVenda": 89.90,
+    "quantidade": 45
+  },
+  {
+    "codigo": "003",
+    "nome": "Teclado Mecânico RGB",
+    "categoria": "Periféricos",
+    "imagem": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=300&h=200&fit=crop",
+    "precoCompra": 280.00,
+    "precoVenda": 450.00,
+    "quantidade": 8
+  },
+  {
+    "codigo": "004",
+    "nome": "Monitor 24 polegadas",
+    "categoria": "Eletrônicos",
+    "imagem": "https://images.unsplash.com/photo-1496171367472-6561be1553ab?w=300&h=200&fit=crop",
+    "precoCompra": 850.00,
+    "precoVenda": 1299.00,
+    "quantidade": 22
+  },
+  {
+    "codigo": "005",
+    "nome": "HD SSD 1TB NVMe",
+    "categoria": "Armazenamento",
+    "imagem": "https://images.unsplash.com/photo-1610945262588-8ec3f0d9f8e3?w=300&h=200&fit=crop",
+    "precoCompra": 420.00,
+    "precoVenda": 650.00,
+    "quantidade": 35
+  },
+  {
+    "codigo": "006",
+    "nome": "Smartphone Samsung Galaxy",
+    "categoria": "Eletrônicos",
+    "imagem": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=300&h=200&fit=crop",
+    "precoCompra": 1800.00,
+    "precoVenda": 2400.00,
+    "quantidade": 12
+  }
+]
