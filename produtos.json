@@ -52,5 +52,15 @@
     "precoCompra": 1800.00,
     "precoVenda": 2400.00,
     "quantidade": 12
+  },
+
+{
+    "codigo": "007",
+    "nome": "BATERIA TÉRMICA",
+    "categoria": "Eletrônicos",
+    "imagem": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=300&h=200&fit=crop",
+    "precoCompra": 3800.00,
+    "precoVenda": 2400.00,
+    "quantidade": 12
   }
 ]
